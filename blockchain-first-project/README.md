@@ -1,7 +1,7 @@
 Blockchain Project 1 — Mini Blockchain
 
-Objectives
-Understand the basic structure of a blockchain
+Objectives \n
+\nUnderstand the basic structure of a blockchain
 Create blocks with transaction data
 Implement SHA-256 cryptographic hashing
 Link blocks using previous hashes
